@@ -1,0 +1,1 @@
+export const W=960,H=600,TAU=Math.PI*2,C={bg:'#080b1d',grid:'#17234a',cyan:'#55f4ff',white:'#e9fbff',pink:'#ff4f9a',amber:'#ffc857',violet:'#a888ff',lime:'#79f2a5'};export const TICK=1/60;export const tune={speed:250,bullet:580,gap:.13};
